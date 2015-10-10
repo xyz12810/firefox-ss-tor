@@ -11,7 +11,9 @@ Firefox+Shadowsocks+Tor
 
 下载
 =====
-* [Firefox40集成Shadowsocks和Tor](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
+* [本地下载](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
+* [Dropbox下载](https://www.dropbox.com/s/ps479fjj92uusn8/Firefox-SS-Tor.zip?dl=0)
+*   解压错误的，请用7-ZIP解压
 
 特色
 =====
