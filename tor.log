@@ -1,0 +1,494 @@
+Aug 14 20:31:38.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening new log file.
+Aug 14 20:31:37.445 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Aug 14 20:31:37.446 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Aug 14 20:31:37.446 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Aug 14 20:31:37.465 [notice] Read configuration file "D:\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Aug 14 20:31:37.469 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Aug 14 20:31:37.469 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Aug 14 20:31:37.469 [warn] Path for DataDirectory (./) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Aug 14 20:31:37.470 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Aug 14 20:31:38.088 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 14 20:31:38.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Aug 14 20:31:38.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Aug 14 20:31:38.000 [notice] Bootstrapped 0%: Starting
+Aug 14 20:31:39.000 [notice] Bootstrapped 5%: Connecting to directory server
+Aug 14 20:31:39.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Aug 14 20:31:41.000 [notice] Bootstrapped 15%: Establishing an encrypted directory connection
+Aug 14 20:31:41.000 [notice] Bootstrapped 20%: Asking for networkstatus consensus
+Aug 14 20:31:41.000 [notice] Bootstrapped 25%: Loading networkstatus consensus
+Aug 14 20:31:43.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no usable consensus.
+Aug 14 20:31:47.000 [notice] Bootstrapped 40%: Loading authority key certs
+Aug 14 20:31:48.000 [notice] Bootstrapped 45%: Asking for relay descriptors
+Aug 14 20:31:48.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 0/6280, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of exit bw = 0% of path bw.)
+Aug 14 20:31:51.000 [notice] Bootstrapped 50%: Loading relay descriptors
+Aug 14 20:32:24.000 [notice] Bootstrapped 56%: Loading relay descriptors
+Aug 14 20:32:31.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Aug 14 20:32:31.247 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Aug 14 20:32:31.248 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Aug 14 20:32:31.248 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Aug 14 20:32:31.266 [notice] Read configuration file "D:\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Aug 14 20:32:31.270 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Aug 14 20:32:31.270 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Aug 14 20:32:31.270 [warn] Path for DataDirectory (./) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Aug 14 20:32:31.270 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Aug 14 20:32:31.337 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 14 20:32:31.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Aug 14 20:32:31.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Aug 14 20:32:31.000 [notice] Bootstrapped 0%: Starting
+Aug 14 20:32:32.000 [notice] Bootstrapped 45%: Asking for relay descriptors
+Aug 14 20:32:34.000 [notice] Bootstrapped 56%: Loading relay descriptors
+Aug 14 20:32:35.000 [notice] Bootstrapped 61%: Loading relay descriptors
+Aug 14 20:32:35.000 [notice] Bootstrapped 66%: Loading relay descriptors
+Aug 14 20:32:36.000 [notice] Bootstrapped 77%: Loading relay descriptors
+Aug 14 20:32:37.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Aug 14 20:32:37.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Aug 14 20:32:39.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Aug 14 20:32:39.000 [notice] Bootstrapped 100%: Done
+Aug 14 20:33:59.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Aug 14 20:33:58.985 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Aug 14 20:33:58.986 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Aug 14 20:33:58.986 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Aug 14 20:33:59.031 [notice] Read configuration file "D:\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Aug 14 20:33:59.036 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Aug 14 20:33:59.036 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Aug 14 20:33:59.036 [warn] Path for DataDirectory (./) is relative and will resolve to D:\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Aug 14 20:33:59.036 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Aug 14 20:33:59.566 [notice] Opening Socks listener on 127.0.0.1:9050
+Aug 14 20:33:59.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Aug 14 20:33:59.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Aug 14 20:34:00.000 [notice] Bootstrapped 0%: Starting
+Aug 14 20:34:00.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Aug 14 20:34:01.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Aug 14 20:34:03.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Aug 14 20:34:05.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Aug 14 20:34:05.000 [notice] Bootstrapped 100%: Done
+Oct 10 02:25:23.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 02:25:23.307 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 02:25:23.309 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 02:25:23.309 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 02:25:23.366 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 02:25:23.391 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 02:25:23.391 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 02:25:23.391 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 02:25:23.402 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 02:25:23.408 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 02:25:23.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 02:25:23.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 02:25:24.000 [notice] Bootstrapped 0%: Starting
+Oct 10 02:25:25.000 [notice] Application request when we haven't used client functionality lately. Optimistically trying directory fetches again.
+Oct 10 02:25:25.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 02:25:25.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Oct 10 02:25:28.000 [notice] Bootstrapped 15%: Establishing an encrypted directory connection
+Oct 10 02:25:28.000 [notice] Bootstrapped 20%: Asking for networkstatus consensus
+Oct 10 02:25:28.000 [notice] Bootstrapped 25%: Loading networkstatus consensus
+Oct 10 02:25:44.000 [notice] Bootstrapped 45%: Asking for relay descriptors
+Oct 10 02:25:44.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 7/6643, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of exit bw = 0% of path bw.)
+Oct 10 02:25:46.000 [notice] Bootstrapped 50%: Loading relay descriptors
+Oct 10 02:25:50.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 7/6643, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of exit bw = 0% of path bw.)
+Oct 10 02:25:50.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 7/6643, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of exit bw = 0% of path bw.)
+Oct 10 02:26:20.000 [notice] Bootstrapped 55%: Loading relay descriptors
+Oct 10 02:26:42.000 [notice] Bootstrapped 62%: Loading relay descriptors
+Oct 10 02:26:46.000 [notice] Bootstrapped 67%: Loading relay descriptors
+Oct 10 02:26:46.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 4644/6643, and can only build 36% of likely paths. (We have 74% of guards bw, 71% of midpoint bw, and 67% of exit bw = 36% of path bw.)
+Oct 10 02:26:52.000 [notice] Bootstrapped 72%: Loading relay descriptors
+Oct 10 02:26:53.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 02:26:53.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 02:27:18.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 02:27:18.658 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 02:27:18.659 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 02:27:18.659 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 02:27:18.675 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 02:27:18.683 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 02:27:18.683 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 02:27:18.683 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 02:27:18.683 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 02:27:18.686 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 02:27:18.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 02:27:19.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 02:27:19.000 [notice] Bootstrapped 0%: Starting
+Oct 10 02:27:20.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 02:27:20.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 02:27:20.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 02:27:23.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 02:27:28.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 02:27:28.000 [notice] Bootstrapped 100%: Done
+Oct 10 02:45:18.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 02:45:18.290 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 02:45:18.291 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 02:45:18.291 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 02:45:18.308 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 02:45:18.315 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 02:45:18.315 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 02:45:18.315 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 02:45:18.315 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 02:45:18.318 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 02:45:18.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 02:45:18.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 02:45:18.000 [notice] Bootstrapped 0%: Starting
+Oct 10 02:45:19.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 02:45:19.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 02:45:19.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 02:45:22.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 02:45:25.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 02:45:25.000 [notice] Bootstrapped 100%: Done
+Oct 10 02:46:11.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Oct 10 02:46:15.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Oct 10 02:50:27.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 02:50:27.211 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 02:50:27.213 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 02:50:27.213 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 02:50:27.229 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 02:50:27.237 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 02:50:27.237 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 02:50:27.237 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 02:50:27.237 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 02:50:27.240 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 02:50:27.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 02:50:27.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 02:50:27.000 [notice] Bootstrapped 0%: Starting
+Oct 10 02:50:28.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 02:50:28.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 02:50:28.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 02:50:31.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 02:50:33.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 02:50:33.000 [notice] Bootstrapped 100%: Done
+Oct 10 02:51:46.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 02:51:46.564 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 02:51:46.565 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 02:51:46.565 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 02:51:46.581 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 02:51:46.588 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 02:51:46.588 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 02:51:46.588 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 02:51:46.588 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 02:51:46.591 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 02:51:46.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 02:51:46.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 02:51:47.000 [notice] Bootstrapped 0%: Starting
+Oct 10 02:51:47.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 02:51:47.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 02:51:47.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 02:51:50.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 02:51:53.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 02:51:53.000 [notice] Bootstrapped 100%: Done
+Oct 10 03:05:12.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 03:05:12.199 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 03:05:12.200 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 03:05:12.200 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 03:05:12.218 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 03:05:12.225 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 03:05:12.225 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 03:05:12.225 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 03:05:12.225 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 03:05:12.229 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 03:05:12.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 03:05:12.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 03:05:12.000 [notice] Bootstrapped 0%: Starting
+Oct 10 03:05:13.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 03:05:13.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 03:05:13.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 03:05:16.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 03:05:18.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 03:05:18.000 [notice] Bootstrapped 100%: Done
+Oct 10 03:10:35.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 03:10:35.664 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 03:10:35.666 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 03:10:35.666 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 03:10:35.682 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 03:10:35.689 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 03:10:35.689 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 03:10:35.689 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 03:10:35.689 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 03:10:35.692 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 03:10:35.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 03:10:36.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 03:10:36.000 [notice] Bootstrapped 0%: Starting
+Oct 10 03:10:36.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 03:10:36.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 03:10:36.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 03:10:44.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 03:10:47.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 03:10:47.000 [notice] Bootstrapped 100%: Done
+Oct 10 03:11:23.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 03:11:23.572 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 03:11:23.574 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 03:11:23.574 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 03:11:23.590 [notice] Read configuration file "C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\torrc".
+Oct 10 03:11:23.597 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip. Is this what you wanted?
+Oct 10 03:11:23.597 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\geoip6. Is this what you wanted?
+Oct 10 03:11:23.597 [warn] Path for DataDirectory (./) is relative and will resolve to C:\Users\wuqing\Downloads\Tor V0.2.7.2 EB¼ò»¯°æ\. Is this what you wanted?
+Oct 10 03:11:23.597 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 03:11:23.600 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 03:11:23.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 03:11:23.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 03:11:24.000 [notice] Bootstrapped 0%: Starting
+Oct 10 03:11:24.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 03:11:24.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 03:11:24.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 03:11:31.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 03:11:35.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 03:11:35.000 [notice] Bootstrapped 100%: Done
+Oct 10 03:29:39.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 03:29:39.805 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 03:29:39.805 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 03:29:39.805 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 03:29:39.821 [notice] Read configuration file "D:\Program Files\Tor\torrc".
+Oct 10 03:29:39.821 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to D:\Program Files\Tor\geoip. Is this what you wanted?
+Oct 10 03:29:39.821 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to D:\Program Files\Tor\geoip6. Is this what you wanted?
+Oct 10 03:29:39.821 [warn] Path for DataDirectory (./) is relative and will resolve to D:\Program Files\Tor\. Is this what you wanted?
+Oct 10 03:29:39.821 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 03:29:39.821 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 03:29:39.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 03:29:40.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 03:29:40.000 [notice] Bootstrapped 0%: Starting
+Oct 10 03:29:40.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 03:29:41.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 03:29:41.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 03:29:43.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 03:29:45.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 03:29:45.000 [notice] Bootstrapped 100%: Done
+Oct 10 03:33:23.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 03:33:22.969 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 03:33:22.969 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 03:33:22.969 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 03:33:22.984 [notice] Read configuration file "D:\Program Files\Tor\torrc".
+Oct 10 03:33:23.000 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to D:\Program Files\Tor\geoip. Is this what you wanted?
+Oct 10 03:33:23.000 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to D:\Program Files\Tor\geoip6. Is this what you wanted?
+Oct 10 03:33:23.000 [warn] Path for DataDirectory (./) is relative and will resolve to D:\Program Files\Tor\. Is this what you wanted?
+Oct 10 03:33:23.000 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 03:33:23.000 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 03:33:23.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 03:33:23.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 03:33:23.000 [notice] Bootstrapped 0%: Starting
+Oct 10 03:33:24.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 03:33:24.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 03:33:24.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 03:33:29.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 03:33:31.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 03:33:31.000 [notice] Bootstrapped 100%: Done
+Oct 10 10:33:29.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 10:33:29.760 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 10:33:29.761 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 10:33:29.761 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 10:33:29.814 [notice] Read configuration file "D:\Program Files\Tor\torrc".
+Oct 10 10:33:29.860 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to D:\Program Files\Tor\geoip. Is this what you wanted?
+Oct 10 10:33:29.860 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to D:\Program Files\Tor\geoip6. Is this what you wanted?
+Oct 10 10:33:29.860 [warn] Path for DataDirectory (./) is relative and will resolve to D:\Program Files\Tor\. Is this what you wanted?
+Oct 10 10:33:29.883 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 10:33:29.932 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 10:33:30.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 10:33:30.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 10:33:30.000 [notice] Bootstrapped 0%: Starting
+Oct 10 10:33:31.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 10:33:31.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 10:33:31.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 10:33:34.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 10:33:48.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 10:33:48.000 [notice] Bootstrapped 100%: Done
+Oct 10 10:45:04.000 [notice] No circuits are opened. Relaxed timeout for circuit 15 (a General-purpose client 3-hop circuit in state doing handshakes with channel state open) to 60000ms. However, it appears the circuit has timed out anyway. 2 guards are live.
+Oct 10 10:51:36.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 10:51:36.006 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 10:51:36.007 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 10:51:36.007 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 10:51:36.028 [notice] Read configuration file "E:\QQ\Tor\torrc".
+Oct 10 10:51:36.035 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to E:\QQ\Tor\geoip. Is this what you wanted?
+Oct 10 10:51:36.035 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to E:\QQ\Tor\geoip6. Is this what you wanted?
+Oct 10 10:51:36.035 [warn] Path for DataDirectory (./) is relative and will resolve to E:\QQ\Tor\. Is this what you wanted?
+Oct 10 10:51:36.035 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 10:51:36.038 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 10:51:36.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 10:51:36.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 10:51:36.000 [notice] Bootstrapped 0%: Starting
+Oct 10 10:51:37.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 10:51:37.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 10:51:37.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 10:51:40.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 10:51:42.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 10:51:42.000 [notice] Bootstrapped 100%: Done
+Oct 10 10:59:08.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 10:59:10.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 10:59:12.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:07:33.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 11:07:33.469 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 11:07:33.469 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 11:07:33.469 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 11:07:33.484 [notice] Read configuration file "E:\QQ\Tor\torrc".
+Oct 10 11:07:33.500 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to E:\QQ\Tor\geoip. Is this what you wanted?
+Oct 10 11:07:33.500 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to E:\QQ\Tor\geoip6. Is this what you wanted?
+Oct 10 11:07:33.500 [warn] Path for DataDirectory (./) is relative and will resolve to E:\QQ\Tor\. Is this what you wanted?
+Oct 10 11:07:33.500 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 11:07:33.500 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 11:07:33.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 11:07:33.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 11:07:34.000 [notice] Bootstrapped 0%: Starting
+Oct 10 11:07:34.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 11:07:34.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 11:07:35.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:12:22.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 11:12:22.007 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 11:12:22.007 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 11:12:22.007 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 11:12:22.022 [notice] Read configuration file "E:\QQ\Tor\torrc".
+Oct 10 11:12:22.022 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to E:\QQ\Tor\geoip. Is this what you wanted?
+Oct 10 11:12:22.022 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to E:\QQ\Tor\geoip6. Is this what you wanted?
+Oct 10 11:12:22.022 [warn] Path for DataDirectory (./) is relative and will resolve to E:\QQ\Tor\. Is this what you wanted?
+Oct 10 11:12:22.022 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 11:12:22.022 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 11:12:22.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 11:12:22.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 11:12:22.000 [notice] Bootstrapped 0%: Starting
+Oct 10 11:12:23.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 11:12:23.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 11:12:24.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:12:25.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:12:27.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:12:29.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:12:31.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:12:32.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 11:12:40.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 11:12:42.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 11:12:42.000 [notice] Bootstrapped 100%: Done
+Oct 10 11:55:34.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 11:55:34.323 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 11:55:34.323 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 11:55:34.323 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 11:55:34.338 [notice] Read configuration file "E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\torrc".
+Oct 10 11:55:34.354 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\geoip. Is this what you wanted?
+Oct 10 11:55:34.354 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\geoip6. Is this what you wanted?
+Oct 10 11:55:34.354 [warn] Path for DataDirectory (./) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\. Is this what you wanted?
+Oct 10 11:55:34.354 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 11:55:34.354 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 11:55:34.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 11:55:34.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 11:55:35.000 [notice] Bootstrapped 0%: Starting
+Oct 10 11:55:35.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 11:55:35.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 11:55:35.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 11:55:38.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 11:55:46.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 11:55:46.000 [notice] Bootstrapped 100%: Done
+Oct 10 11:58:07.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:58:08.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:58:10.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:58:12.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 11:58:14.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:12:43.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:12:45.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:12:47.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:12:49.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:13:01.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 12:13:01.374 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 12:13:01.374 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 12:13:01.374 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 12:13:01.389 [notice] Read configuration file "E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\torrc".
+Oct 10 12:13:01.389 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\geoip. Is this what you wanted?
+Oct 10 12:13:01.389 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\geoip6. Is this what you wanted?
+Oct 10 12:13:01.389 [warn] Path for DataDirectory (./) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\. Is this what you wanted?
+Oct 10 12:13:01.389 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 12:13:01.389 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 12:13:01.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 12:13:01.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 12:13:02.000 [notice] Bootstrapped 0%: Starting
+Oct 10 12:13:02.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 12:13:02.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 12:13:02.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 12:13:04.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Oct 10 12:13:14.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Oct 10 12:13:14.000 [notice] Bootstrapped 100%: Done
+Oct 10 12:14:51.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:14:53.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:14:55.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:14:57.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:14:59.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:15:01.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:15:03.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:15:05.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:15:07.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:18:56.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:21:38.000 [notice] Tor has not observed any network activity for the past 86 seconds. Disabling circuit build timeout recording.
+Oct 10 12:22:08.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:10.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:12.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:14.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:16.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:18.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:20.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:22.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:24.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:26.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:53.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:55.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:22:57.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:23:24.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:23:26.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:23:28.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:23:55.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:23:57.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:23:59.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:24:26.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:24:28.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:24:30.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:25:28.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:25:30.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:25:32.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:25:59.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:26:01.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:26:03.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:26:35.000 [notice] Tor 0.2.7.2-alpha (git-4d01238d3b7a3f9a) opening log file.
+Oct 10 12:26:35.505 [notice] Tor v0.2.7.2-alpha (git-4d01238d3b7a3f9a) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Oct 10 12:26:35.505 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Oct 10 12:26:35.505 [notice] This version is not a stable Tor release. Expect more bugs than usual.
+Oct 10 12:26:35.583 [notice] Read configuration file "E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\torrc".
+Oct 10 12:26:35.599 [warn] Path for GeoIPFile (./geoip) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\geoip. Is this what you wanted?
+Oct 10 12:26:35.599 [warn] Path for GeoIPv6File (./geoip6) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\geoip6. Is this what you wanted?
+Oct 10 12:26:35.599 [warn] Path for DataDirectory (./) is relative and will resolve to E:\Ñ¸À×ÏÂÔØ\FirefoxPortable88\. Is this what you wanted?
+Oct 10 12:26:35.599 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Oct 10 12:26:35.599 [notice] Opening Socks listener on 127.0.0.1:9050
+Oct 10 12:26:35.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Oct 10 12:26:36.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Oct 10 12:26:36.000 [notice] Bootstrapped 0%: Starting
+Oct 10 12:26:36.000 [notice] Bootstrapped 5%: Connecting to directory server
+Oct 10 12:26:36.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Oct 10 12:26:36.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Oct 10 12:26:43.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 10; recommendation warn; host 5C2DE93847DE4C04E5D27A5D0B97C87AC39D0113 at 50.7.141.18:9001)
+Oct 10 12:26:43.000 [warn] 10 connections have failed:
+Oct 10 12:26:43.000 [warn]  10 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:44.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 11; recommendation warn; host FD1B6BC4FE9B47C3E70AA1A1B39653B3648244F1 at 188.138.121.118:9001)
+Oct 10 12:26:44.000 [warn] 11 connections have failed:
+Oct 10 12:26:44.000 [warn]  11 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:45.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 12; recommendation warn; host 699ACF259D2180221C5AF9A7359D9A12BD74C0F7 at 188.209.52.193:80)
+Oct 10 12:26:45.000 [warn] 12 connections have failed:
+Oct 10 12:26:45.000 [warn]  12 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:46.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 13; recommendation warn; host 71DF64DBCC0ADE3C6B6BE368FC2D82257C8527D0 at 46.105.232.179:443)
+Oct 10 12:26:46.000 [warn] 13 connections have failed:
+Oct 10 12:26:46.000 [warn]  13 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:47.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 14; recommendation warn; host FC37A7B1C264497BA01A08BF6D2C982A99D5B963 at 46.28.110.129:443)
+Oct 10 12:26:47.000 [warn] 14 connections have failed:
+Oct 10 12:26:47.000 [warn]  14 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:48.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 15; recommendation warn; host B32AEE2F70D1B20512F89556C7EB70446FDD2DD6 at 85.229.93.51:9001)
+Oct 10 12:26:48.000 [warn] 15 connections have failed:
+Oct 10 12:26:48.000 [warn]  15 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:49.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 16; recommendation warn; host 48A1D17CECFB3AE6F0E106944CDC71298C75E87F at 188.118.217.236:443)
+Oct 10 12:26:49.000 [warn] 16 connections have failed:
+Oct 10 12:26:49.000 [warn]  16 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:50.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 17; recommendation warn; host C59F04BA68B5AF409319E662A8426D70B0CF9BC0 at 5.39.89.124:9001)
+Oct 10 12:26:50.000 [warn] 17 connections have failed:
+Oct 10 12:26:50.000 [warn]  17 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:51.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 18; recommendation warn; host 722D365140C8C52DBB3C9FF6986E3CEFFE2BA812 at 85.214.151.72:9001)
+Oct 10 12:26:51.000 [warn] 18 connections have failed:
+Oct 10 12:26:51.000 [warn]  18 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:52.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 19; recommendation warn; host E81805F71F5073918262F2FAC7B157402B21C2DE at 86.59.21.251:443)
+Oct 10 12:26:52.000 [warn] 19 connections have failed:
+Oct 10 12:26:52.000 [warn]  19 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:53.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (DONE; DONE; count 20; recommendation warn; host 50586E25BE067FD1F739998550EDDCB1A14CA5B2 at 212.51.134.123:9001)
+Oct 10 12:26:53.000 [warn] 20 connections have failed:
+Oct 10 12:26:53.000 [warn]  20 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:55.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (Connection refused [WSAECONNREFUSED ]; CONNECTREFUSED; count 21; recommendation warn; host 0FBE018DADAB416DE17A10C5D4AD3EBF0E243561 at 46.166.165.18:9001)
+Oct 10 12:26:55.000 [warn] 20 connections have failed:
+Oct 10 12:26:55.000 [warn]  20 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:55.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.
+Oct 10 12:26:57.000 [warn] Problem bootstrapping. Stuck at 85%: Finishing handshake with first hop. (Connection refused [WSAECONNREFUSED ]; CONNECTREFUSED; count 22; recommendation warn; host 239E89F5A75C1B77E57D9DA6125858EA5F4A2A1F at 91.121.154.11:443)
+Oct 10 12:26:57.000 [warn] 21 connections have failed:
+Oct 10 12:26:57.000 [warn]  20 connections died in state handshaking (TLS) with SSL state SSLv2/v3 read server hello A in HANDSHAKE
+Oct 10 12:26:57.000 [warn]  1 connections died in state connect()ing with SSL state (No SSL object)
+Oct 10 12:26:57.000 [warn] The connection to the SOCKS5 proxy server at 127.0.0.1:1080 just failed. Make sure that the proxy server is up and running.

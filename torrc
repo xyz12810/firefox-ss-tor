@@ -1,0 +1,14 @@
+SocksListenAddress 127.0.0.1
+
+Socks5Proxy 127.0.0.1:1080
+UseBridges 0
+
+ClientOnly 1
+DataDirectory ./
+GeoIPFile ./geoip
+GeoIPv6File ./geoip6
+Log notice file ./tor.log
+ExcludeNodes {cn},{hk},{mo},{sg},{th},{pk},{by},{ru},{ir},{vn},{ph},{my},{cu}
+StrictNodes 1
+
+
