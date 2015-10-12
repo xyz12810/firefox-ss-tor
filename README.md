@@ -14,11 +14,12 @@ Firefox+Shadowsocks+Tor
 * [本地下载](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
 * [Dropbox下载](https://www.dropbox.com/s/ps479fjj92uusn8/Firefox-SS-Tor.zip?dl=0)
 *   解压错误的，请用7-ZIP解压
+*   Tor检测，可autoproxy全局代理后，点击下面网址查看有没有成功匿名。https://ipleak.net/
 
 特色
 =====
-* 一键启动ss和tor，启动检测进程，保存各项单进程，不会重复进程。
-* tor隐身启动，大家可以去进程管理器查看进程。ss最小化启动。
+* 一键启动ss和tor，启动检测进程，保持各项单进程，不会重复进程。
+* tor隐身启动，可以去进程管理器查看进程。ss最小化启动。
 * tor五秒连上，速度取决于ss前置。
 
 系统支持
