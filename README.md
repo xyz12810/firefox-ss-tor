@@ -12,7 +12,7 @@ Firefox+Shadowsocks+Tor
 下载
 =====
 * [本地下载](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
-* [Dropbox下载](https://www.dropbox.com/s/ps479fjj92uusn8/Firefox-SS-Tor.zip?dl=0)
+
 *   解压错误的，请用7-ZIP解压
 *   Tor检测，可autoproxy全局代理后，点击下面网址查看有没有成功匿名。https://ipleak.net/
 
