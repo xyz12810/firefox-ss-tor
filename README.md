@@ -2,6 +2,7 @@ Firefox+Shadowsocks+Tor
 ===================
 * 项目状态：Firefox40.0.3集成Tor,前置Shadowsocks
    - 点击Firefox-Tor.vbs启动。
+* 请不要更新浏览器，因为为了匿名，浏览器经过特殊设置，更新后会被重置。
    
 准备工作
 ========
