@@ -1,3 +1,0 @@
-services.addons.mozilla.org:HSTS	1	16744	1478228247466,1,0
-addons.cdn.mozilla.net:HSTS	1	16744	1478228237621,1,0
-raw.githubusercontent.com:HSTS	0	16742	1478108366270,1,0
