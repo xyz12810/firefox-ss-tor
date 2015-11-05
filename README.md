@@ -1,6 +1,6 @@
 Firefox+Shadowsocks+Tor
 ===================
-* 项目状态：Firefox41.0.2集成Tor,前置Shadowsocks.11月5日更新。
+* 项目状态：Firefox41.0.2集成Tor,前置Shadowsocks.11月6日更新。
    - 点击Firefox-Tor.vbs启动。
 * 请不要更新浏览器，因为为了匿名，浏览器经过特殊设置，更新后会被重置。
    
@@ -14,7 +14,7 @@ Firefox+Shadowsocks+Tor
 =====
 * [**本地下载**](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
 
-*   Tor检测，可autoproxy全局代理后，点击下面网址查看有没有成功匿名。https://ipleak.net/
+*   Tor检测，点击下面网址查看有没有成功匿名。https://ipleak.net/
 
 特色
 =====
