@@ -1,4 +1,4 @@
-Firefox+Shadowsocks+Tor
+Firefox+Lantern+Tor
 -------------------
 
 * 项目状态：Firefox41.0.2集成Tor,前置Lantern。
@@ -20,7 +20,7 @@ Firefox+Shadowsocks+Tor
 
 * [**前置shadowsocks下载**](https://github.com/yeahwu/firefox-tor/archive/Firefox41.0.2%E9%9B%86%E6%88%90Tor,%E5%89%8D%E7%BD%AEShadowsocks.zip)
 
-*   Tor检测，点击下面网址查看有没有成功匿名。https://ipleak.net/
+*   Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
 
 特色
 ----
