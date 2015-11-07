@@ -16,7 +16,7 @@ Firefox+Lantern+Tor
 
 下载
 -----
-* [**前置lantern下载**](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
+* [**前置lantern下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
 
 * [**前置shadowsocks下载**](https://github.com/yeahwu/firefox-tor/archive/Firefox41.0.2%E9%9B%86%E6%88%90Tor,%E5%89%8D%E7%BD%AEShadowsocks.zip)
 
