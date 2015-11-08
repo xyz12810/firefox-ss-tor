@@ -14,7 +14,7 @@ Next
 
 Dim strArgs
 quo = """"
-strArgs = quo & strFolder & "\lantern.exe" & quo
-oShell.Run strArgs, 0, false
 strArgs = quo & strFolder & "\Firefox.exe" & quo
+oShell.Run strArgs, 0, false
+strArgs = quo & strFolder & "\lantern.exe" & quo
 oShell.Run strArgs, 0, false
