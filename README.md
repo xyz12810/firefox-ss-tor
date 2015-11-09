@@ -43,9 +43,11 @@ Firefox+Lantern+Tor
 
 感谢
 ------
-* kingtope...@gmail.com
+非常感谢gary12的居多建议和技术支持！
+* Gary12
 * Shadowsocks
 * Tor
+* Lantern
 * PortableApps
 
 附图
