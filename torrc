@@ -11,4 +11,9 @@ Log notice file ./tor.log
 ExcludeNodes {cn},{hk},{mo},{sg},{th},{pk},{by},{ru},{ir},{vn},{ph},{my},{cu}
 StrictNodes 1
 
+ReachableAddresses *:80,*:443
+ReachableAddresses reject *:*
+
+
+
 
