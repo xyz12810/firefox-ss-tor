@@ -20,9 +20,9 @@ Firefox+Lantern+Tor
   
 * [**前置shadowsocks下载**](https://github.com/yeahwu/firefox-tor/archive/Firefox41.0.2%E9%9B%86%E6%88%90Tor,%E5%89%8D%E7%BD%AEShadowsocks.zip)
 
-* 前置lantern，sync同步密匙：  BLELSDQV6NJXJLW57O7CXK2RJKKHXG6I7
+* 前置lantern，Sync同步密匙：  BLELSDQV6NJXJLW57O7CXK2RJKKHXG6I7
 
-*   Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
+* Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
 
 特色
 ----
