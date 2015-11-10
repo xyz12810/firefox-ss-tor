@@ -6,8 +6,8 @@ Firefox+Lantern+Tor
 
 准备工作
 -------------
-* 1: 前置lantern不用任何配置，点击Firefox-Tor.vbs即用。
-* 2: 前置ss请打开Shadowsocks-2.5.8文件夹，配置自己的ss账号。确保本地监听端口为：127.0.0.1:1080
+*  前置lantern不用任何配置，点击Firefox-Tor.vbs即用。
+*  前置ss请打开Shadowsocks-2.5.8文件夹，配置自己的ss账号。确保本地监听端口为：127.0.0.1:1080
 
 下载
 -----
