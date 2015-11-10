@@ -17,7 +17,8 @@ Firefox+Lantern+Tor
 下载
 -----
 * [**前置lantern下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
-- **BTSync同步密匙**   BLELSDQV6NJXJLW57O7CXK2RJKKHXG6I7
+   - **BTSync同步密匙**   BLELSDQV6NJXJLW57O7CXK2RJKKHXG6I7
+
 
 * [**前置shadowsocks下载**](https://github.com/yeahwu/firefox-tor/archive/Firefox41.0.2%E9%9B%86%E6%88%90Tor,%E5%89%8D%E7%BD%AEShadowsocks.zip)
 
