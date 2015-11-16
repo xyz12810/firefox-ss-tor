@@ -1,0 +1,194 @@
+Nov 09 11:41:02.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening new log file.
+Nov 09 11:41:02.455 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 09 11:41:02.456 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 09 11:41:02.475 [notice] Read configuration file "C:\Users\wuqing\Desktop\Tor\torrc".
+Nov 09 11:41:02.483 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 09 11:41:02.486 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 09 11:41:02.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 09 11:41:02.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 09 11:41:03.000 [notice] Bootstrapped 0%: Starting
+Nov 09 11:41:03.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 09 11:41:04.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 09 11:41:04.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Nov 09 11:41:17.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 09 11:41:17.000 [warn] Proxy Client: unable to connect to 185.21.100.50:9001
+Nov 09 11:41:25.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 09 11:41:29.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 09 11:41:29.000 [warn] Proxy Client: unable to connect to 67.42.3.9:9001
+Nov 09 11:41:41.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 09 11:41:41.000 [notice] Bootstrapped 100%: Done
+Nov 09 11:44:32.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 09 11:44:32.000 [warn] Proxy Client: unable to connect to 51.254.35.151:4443
+Nov 09 11:52:02.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 09 11:52:02.817 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 09 11:52:02.818 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 09 11:52:02.836 [notice] Read configuration file "C:\Users\wuqing\Desktop\Tor\torrc".
+Nov 09 11:52:02.843 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 09 11:52:02.846 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 09 11:52:02.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 09 11:52:03.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 09 11:52:03.000 [notice] Bootstrapped 0%: Starting
+Nov 09 11:52:04.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 09 11:52:04.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 09 11:52:04.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Nov 09 11:52:11.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 09 11:52:24.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 09 11:52:24.000 [notice] Bootstrapped 100%: Done
+Nov 09 11:53:20.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 09 11:53:20.000 [warn] Proxy Client: unable to connect to 185.21.100.50:9001
+Nov 09 11:53:31.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Nov 09 11:53:34.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Nov 09 11:53:36.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Nov 09 12:07:06.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $4236DF494DC91E1245234AA676F1F993ECB067F5~HessenOne at 153.92.126.135. Retrying on a new circuit.
+Nov 09 12:07:06.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $4236DF494DC91E1245234AA676F1F993ECB067F5~HessenOne at 153.92.126.135. Retrying on a new circuit.
+Nov 09 12:07:30.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $0FCF071AC02CC433EFA82D0E60878117BBDE26ED~dorrisdeebrown at 96.47.226.20. Retrying on a new circuit.
+Nov 09 12:07:45.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $78C7C299DB4C4BD119A22B87B57D5AF5F3741A79~cmutornode at 204.194.29.4. Retrying on a new circuit.
+Nov 09 12:07:50.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5DC945CE8FB2A37E6E2795ECD2709BB21F8714B0~Unnamed at 207.244.70.35. Retrying on a new circuit.
+Nov 09 12:07:50.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5DC945CE8FB2A37E6E2795ECD2709BB21F8714B0~Unnamed at 207.244.70.35. Retrying on a new circuit.
+Nov 09 12:07:50.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5DC945CE8FB2A37E6E2795ECD2709BB21F8714B0~Unnamed at 207.244.70.35. Retrying on a new circuit.
+Nov 09 12:08:00.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5DC945CE8FB2A37E6E2795ECD2709BB21F8714B0~Unnamed at 207.244.70.35. Retrying on a new circuit.
+Nov 09 12:11:25.000 [notice] Your Guard 0xbbATdf ($AB7A055A7CB80315A4DCEB4BA8E319AFBFF2ACAA) is failing to carry more streams on its circuits than usual. Most likely this means the Tor network is overloaded or your network connection is poor. Use counts are 14/21. Success counts are 22/33. 33 circuits completed, 7 were unusable, 4 collapsed, and 4 timed out. For reference, your timeout cutoff is 60 seconds.
+Nov 09 12:12:16.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A6B0521C4C1FB91FB66398AAD523AD773E82E77E~apx2 at 85.10.210.199. Retrying on a new circuit.
+Nov 09 12:12:17.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $A6B0521C4C1FB91FB66398AAD523AD773E82E77E~apx2 at 85.10.210.199. Retrying on a new circuit.
+Nov 09 12:13:33.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 09 12:13:33.464 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 09 12:13:33.465 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 09 12:13:33.482 [notice] Read configuration file "C:\Users\wuqing\Desktop\Tor\torrc".
+Nov 09 12:13:33.489 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 09 12:13:33.489 [warn] HTTPProxy configured, but no SOCKS proxy or HTTPS proxy configured. Watch out: this configuration will proxy unencrypted directory connections only.
+Nov 09 12:13:33.492 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 09 12:13:33.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 09 12:13:33.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 09 12:13:34.000 [notice] Bootstrapped 0%: Starting
+Nov 09 12:13:34.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 09 12:13:34.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 09 12:16:42.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 09 12:16:42.948 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 09 12:16:42.949 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 09 12:16:42.966 [notice] Read configuration file "C:\Users\wuqing\Desktop\Tor\torrc".
+Nov 09 12:16:42.973 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 09 12:16:42.976 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 09 12:16:42.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 09 12:16:43.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 09 12:16:43.000 [notice] Bootstrapped 0%: Starting
+Nov 09 12:16:44.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 09 12:16:44.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 09 12:16:44.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Nov 09 12:18:12.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 09 12:18:18.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 09 12:18:18.000 [warn] Proxy Client: unable to connect to 185.21.100.50:9001
+Nov 09 12:18:21.000 [notice] Your Guard 0xbbATdf ($AB7A055A7CB80315A4DCEB4BA8E319AFBFF2ACAA) is failing to carry more streams on its circuits than usual. Most likely this means the Tor network is overloaded or your network connection is poor. Use counts are 18/25. Success counts are 27/41. 38 circuits completed, 7 were unusable, 4 collapsed, and 4 timed out. For reference, your timeout cutoff is 60 seconds.
+Nov 09 12:18:21.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 09 12:18:21.000 [notice] Bootstrapped 100%: Done
+Nov 09 12:19:42.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $41E54D8BC348F47D37AFFDBB639F2D4EAA3BC4C7~tor4thepeople2 at 185.101.107.57. Retrying on a new circuit.
+Nov 09 12:19:42.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $41E54D8BC348F47D37AFFDBB639F2D4EAA3BC4C7~tor4thepeople2 at 185.101.107.57. Retrying on a new circuit.
+Nov 09 12:19:57.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $E4D1F25DFBE484208866BA4A1A958B73127CB0AD~CalyxInstitute01 at 162.247.72.7. Retrying on a new circuit.
+Nov 09 12:19:57.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $E4D1F25DFBE484208866BA4A1A958B73127CB0AD~CalyxInstitute01 at 162.247.72.7. Retrying on a new circuit.
+Nov 09 12:20:39.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 09 12:20:39.629 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 09 12:20:39.630 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 09 12:20:39.647 [notice] Read configuration file "C:\Users\wuqing\Desktop\Tor\torrc".
+Nov 09 12:20:39.654 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 09 12:20:39.654 [warn] HTTPProxy configured, but no SOCKS proxy or HTTPS proxy configured. Watch out: this configuration will proxy unencrypted directory connections only.
+Nov 09 12:20:39.657 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 09 12:20:39.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 09 12:20:40.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 09 12:20:40.000 [notice] Bootstrapped 0%: Starting
+Nov 09 12:20:40.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 09 12:20:40.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 09 12:23:49.000 [warn] Problem bootstrapping. Stuck at 80%: Connecting to the Tor network. (Connection timed out [WSAETIMEDOUT ]; TIMEOUT; count 10; recommendation warn; host 24627981B63DA3259D2FA3D46BA91C981A6829DC at 107.170.32.71:9001)
+Nov 09 12:23:49.000 [warn] 9 connections have failed:
+Nov 09 12:23:49.000 [warn]  9 connections died in state connect()ing with SSL state (No SSL object)
+Nov 09 12:24:11.000 [warn] Problem bootstrapping. Stuck at 80%: Connecting to the Tor network. (Connection timed out [WSAETIMEDOUT ]; TIMEOUT; count 11; recommendation warn; host 08E93D0639F54E2AC9ED0A518F5D3B414EF02A40 at 37.120.169.214:443)
+Nov 09 12:24:11.000 [warn] 10 connections have failed:
+Nov 09 12:24:11.000 [warn]  10 connections died in state connect()ing with SSL state (No SSL object)
+Nov 09 12:24:25.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 09 12:24:25.559 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 09 12:24:25.560 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 09 12:24:25.577 [notice] Read configuration file "C:\Users\wuqing\Desktop\Tor\torrc".
+Nov 09 12:24:25.584 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 09 12:24:25.587 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 09 12:24:25.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 09 12:24:25.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 09 12:24:26.000 [notice] Bootstrapped 0%: Starting
+Nov 09 12:24:26.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 09 12:24:26.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 09 12:24:26.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Nov 09 12:24:37.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 09 12:24:39.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 09 12:24:39.000 [notice] Bootstrapped 100%: Done
+Nov 09 12:24:40.000 [notice] Your Guard 0xbbATdf ($AB7A055A7CB80315A4DCEB4BA8E319AFBFF2ACAA) is failing to carry more streams on its circuits than usual. Most likely this means the Tor network is overloaded or your network connection is poor. Use counts are 22/29. Success counts are 35/46. 46 circuits completed, 7 were unusable, 4 collapsed, and 4 timed out. For reference, your timeout cutoff is 60 seconds.
+Nov 09 12:25:50.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 09 12:25:50.000 [warn] Proxy Client: unable to connect to 185.21.100.50:9001
+Nov 09 12:27:53.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $58A8B22FE2A25DD321B41A777AE2F5810A479814~netdiveEX02 at 46.166.170.6. Retrying on a new circuit.
+Nov 09 12:27:53.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $58A8B22FE2A25DD321B41A777AE2F5810A479814~netdiveEX02 at 46.166.170.6. Retrying on a new circuit.
+Nov 09 12:28:03.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $66B641459FCEC86666E8888F1B76C3BE8A646E35~xorox at 5.196.72.100. Retrying on a new circuit.
+Nov 09 12:28:03.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $66B641459FCEC86666E8888F1B76C3BE8A646E35~xorox at 5.196.72.100. Retrying on a new circuit.
+Nov 09 12:28:08.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $66B641459FCEC86666E8888F1B76C3BE8A646E35~xorox at 5.196.72.100. Retrying on a new circuit.
+Nov 09 12:28:08.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $66B641459FCEC86666E8888F1B76C3BE8A646E35~xorox at 5.196.72.100. Retrying on a new circuit.
+Nov 10 14:00:28.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 10 14:00:28.521 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 10 14:00:28.521 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 10 14:00:28.538 [notice] Read configuration file "C:\Users\Administrator\Desktop\Tor\torrc".
+Nov 10 14:00:28.541 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 10 14:00:28.546 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 10 14:00:28.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 10 14:00:28.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 10 14:00:28.000 [notice] Bootstrapped 0%: Starting
+Nov 10 14:00:29.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 10 14:00:29.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Nov 10 14:00:31.000 [notice] Bootstrapped 15%: Establishing an encrypted directory connection
+Nov 10 14:00:31.000 [notice] Bootstrapped 20%: Asking for networkstatus consensus
+Nov 10 14:00:32.000 [notice] Bootstrapped 25%: Loading networkstatus consensus
+Nov 10 14:00:32.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no recent usable consensus.
+Nov 10 14:00:34.000 [notice] Bootstrapped 45%: Asking for relay descriptors
+Nov 10 14:00:34.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 5472/6624, and can only build 58% of likely paths. (We have 83% of guards bw, 82% of midpoint bw, and 84% of exit bw = 58% of path bw.)
+Nov 10 14:00:34.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 5472/6624, and can only build 58% of likely paths. (We have 83% of guards bw, 82% of midpoint bw, and 84% of exit bw = 58% of path bw.)
+Nov 10 14:00:37.000 [notice] Bootstrapped 78%: Loading relay descriptors
+Nov 10 14:00:40.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 10 14:00:40.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 10 14:00:41.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 10 14:00:41.000 [notice] Bootstrapped 100%: Done
+Nov 10 14:17:20.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5CECC5C30ACC4B3DE462792323967087CC53D947~PrivacyRepublic0001 at 178.32.181.96. Retrying on a new circuit.
+Nov 10 14:17:20.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $5CECC5C30ACC4B3DE462792323967087CC53D947~PrivacyRepublic0001 at 178.32.181.96. Retrying on a new circuit.
+Nov 10 14:17:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $379FB450010D17078B3766C2273303C358C3A442~aurora at 176.126.252.12. Retrying on a new circuit.
+Nov 10 14:17:35.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $379FB450010D17078B3766C2273303C358C3A442~aurora at 176.126.252.12. Retrying on a new circuit.
+Nov 10 14:17:42.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $756F68024C6E55FF7142AD933C135F88B552A932~AUtocratically at 153.92.127.143. Retrying on a new circuit.
+Nov 10 14:17:42.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $756F68024C6E55FF7142AD933C135F88B552A932~AUtocratically at 153.92.127.143. Retrying on a new circuit.
+Nov 10 14:17:42.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $756F68024C6E55FF7142AD933C135F88B552A932~AUtocratically at 153.92.127.143. Retrying on a new circuit.
+Nov 10 14:17:42.000 [notice] We tried for 15 seconds to connect to '[scrubbed]' using exit $756F68024C6E55FF7142AD933C135F88B552A932~AUtocratically at 153.92.127.143. Retrying on a new circuit.
+Nov 10 14:18:11.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 10 14:18:11.423 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 10 14:18:11.423 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 10 14:18:11.441 [notice] Read configuration file "C:\Users\Administrator\Desktop\Tor\torrc".
+Nov 10 14:18:11.444 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 10 14:18:11.450 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 10 14:18:11.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 10 14:18:11.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 10 14:18:11.000 [notice] Bootstrapped 0%: Starting
+Nov 10 14:18:11.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 10 14:18:12.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 10 14:18:12.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Nov 10 14:18:14.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 10 14:18:15.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 10 14:18:15.000 [notice] Bootstrapped 100%: Done
+Nov 10 14:18:33.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Nov 10 14:18:36.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Nov 10 14:18:50.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Nov 10 14:22:01.000 [notice] Tor 0.2.6.10 (git-cab52fe998909e08) opening log file.
+Nov 10 14:22:01.380 [notice] Tor v0.2.6.10 (git-cab52fe998909e08) running on Windows 7 with Libevent 2.0.21-stable, OpenSSL 1.0.1p and Zlib 1.2.8.
+Nov 10 14:22:01.380 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Nov 10 14:22:01.398 [notice] Read configuration file "C:\Users\Administrator\Desktop\Tor\torrc".
+Nov 10 14:22:01.401 [warn] You have asked to exclude certain relays from all positions in your circuits. Expect hidden services and other Tor features to be broken in unpredictable ways.
+Nov 10 14:22:01.407 [notice] Opening Socks listener on 127.0.0.1:9050
+Nov 10 14:22:01.000 [notice] Parsing GEOIP IPv4 file ./geoip.
+Nov 10 14:22:01.000 [notice] Parsing GEOIP IPv6 file ./geoip6.
+Nov 10 14:22:01.000 [notice] Bootstrapped 0%: Starting
+Nov 10 14:22:01.000 [notice] Bootstrapped 5%: Connecting to directory server
+Nov 10 14:22:01.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Nov 10 14:22:01.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Nov 10 14:22:04.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Nov 10 14:22:06.000 [notice] Tor has successfully opened a circuit. Looks like client functionality is working.
+Nov 10 14:22:06.000 [notice] Bootstrapped 100%: Done
+Nov 10 14:22:31.000 [warn] The https proxy sent back an unexpected status code 502 ("Bad Gateway"). Closing.
+Nov 10 14:22:31.000 [warn] Proxy Client: unable to connect to 185.21.100.50:9001
