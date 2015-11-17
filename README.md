@@ -1,6 +1,6 @@
 Firefox+Lantern+Tor
 -------------------
-* 项目状态：Firefox_42 集成 Tor_5.0.4,前置Lantern_2.0.10。
+* 项目状态：Firefox_42 集成 Tor 0.2.7.4-rc，前置Lantern_2.0.10。
    - 点击Firefox-Tor.vbs启动。
 * 请不要更新浏览器，因为为了匿名，浏览器经过特殊设置，更新后会被重置。
 
@@ -13,7 +13,7 @@ Firefox+Lantern+Tor
 下载
 -----
 * [**前置lantern本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
-* [**前置lantern，dropbox下载**](https://www.dropbox.com/s/kfmtvze2vbse2um/Firefox-Tor.rar?dl=0)
+
   
 * [**前置shadowsocks本地下载**](https://github.com/yeahwu/firefox-tor/archive/Firefox41.0.2%E9%9B%86%E6%88%90Tor,%E5%89%8D%E7%BD%AEShadowsocks.zip)
 
