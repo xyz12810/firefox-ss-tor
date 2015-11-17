@@ -1,6 +1,6 @@
 Firefox+Lantern+Tor
 -------------------
-* 项目状态：Firefox_42 集成 Tor_5.5a4,前置Lantern_2.0.10。
+* 项目状态：Firefox_42 集成 Tor_5.0.4,前置Lantern_2.0.10。
    - 点击Firefox-Tor.vbs启动。
 * 请不要更新浏览器，因为为了匿名，浏览器经过特殊设置，更新后会被重置。
 
