@@ -10,8 +10,7 @@ GeoIPv6File ./geoip6
 Log notice file ./tor.log
 ExcludeNodes {cn},{hk},{mo},{sg},{th},{pk},{by},{ru},{ir},{vn},{ph},{my},{cu}
 StrictNodes 1
+NewCircuitPeriod 600
 
 ReachableAddresses *:80,*:443
 ReachableAddresses reject *:*
-NewCircuitPeriod 900
-
