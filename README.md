@@ -15,7 +15,7 @@ Firefox+Lantern+Tor
 * [**前置lantern本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
 
   
-* [**前置SS,Dropbox下载**](https://www.dropbox.com/s/ps479fjj92uusn8/Firefox-SS-Tor.zip?dl=0)
+* [**前置SS,Dropbox下载**](https://www.dropbox.com/s/cqp1auw3h4am0dy/ss-tor.zip?dl=0)
 
 * Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
 
