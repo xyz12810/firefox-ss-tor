@@ -8,14 +8,14 @@ Firefox+Lantern+Tor
 -------------
 *  前置lantern不用任何配置，点击Firefox-Tor.vbs即用。
 
-*  前置ss请打开Shadowsocks-2.5.8文件夹，配置自己的ss账号。确保本地监听端口为：127.0.0.1:1080
+*  前置ss请打开Shadowsocks文件夹，配置自己的ss账号。确保本地监听端口为：127.0.0.1:1080
 
 下载
 -----
 * [**前置lantern本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
 
   
-* [**前置shadowsocks本地下载**](https://github.com/yeahwu/firefox-tor/archive/Firefox41.0.2%E9%9B%86%E6%88%90Tor,%E5%89%8D%E7%BD%AEShadowsocks.zip)
+* [**前置SS,Dropbox下载**](https://www.dropbox.com/s/ps479fjj92uusn8/Firefox-SS-Tor.zip?dl=0)
 
 * Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
 
