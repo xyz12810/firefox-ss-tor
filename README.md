@@ -12,7 +12,7 @@ Firefox+Lantern+Tor
 
 下载
 -----
-* [**前置lantern本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
+* [**前置lantern本地下载**](https://github.com/yeahwu/firefox-tor/archive/firefox42+Tor0.2.7.6.zip)
 
   
 * [**前置SS,Dropbox下载**](https://www.dropbox.com/s/cqp1auw3h4am0dy/ss-tor.zip?dl=0)
