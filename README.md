@@ -12,10 +12,11 @@ Firefox+Lantern+Tor
 
 下载
 -----
-* [**前置lantern本地下载**](https://github.com/yeahwu/firefox-tor/archive/firefox42+Tor0.2.7.6.zip)
+* [**firefox43集成tor，前置lantern测试版**](https://www.dropbox.com/s/w2rcccu4uodj67y/Firefox43-Tor.7z?dl=0﻿)
 
-  
-* [**前置SS,Dropbox下载**](https://www.dropbox.com/s/cqp1auw3h4am0dy/ss-tor.zip?dl=0)
+* [**前置lantern稳定版，本地下载**](https://github.com/yeahwu/firefox-tor/archive/firefox42+Tor0.2.7.6.zip)
+
+* [**前置SS稳定版，Dropbox下载**](https://www.dropbox.com/s/cqp1auw3h4am0dy/ss-tor.zip?dl=0)
 
 * Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
 
