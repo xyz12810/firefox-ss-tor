@@ -55,5 +55,5 @@ Firefox+Lantern+Tor
 ------
 firefox状态页
 ![Tor_status](https://raw.githubusercontent.com/yeahwu/wu/master/tor.JPG)
-![firefox_status](https://github.com/yeahwu/wu/blob/master/firefox8.JPG?raw=true)
+![firefox_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
 
