@@ -53,7 +53,8 @@ Firefox+Lantern+Tor
 
 附图
 ------
+tor状态页
+![Tor_status](https://raw.githubusercontent.com/yeahwu/Recycle-Bin/master/torr.JPG)
 firefox状态页
-![Tor_status](https://raw.githubusercontent.com/yeahwu/wu/master/tor.JPG)
 ![firefox_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
 
