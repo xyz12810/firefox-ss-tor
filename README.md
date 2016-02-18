@@ -1,13 +1,13 @@
 Firefox+Lantern+Tor
 -------------------
-* 项目状态：匿名翻墙工具，Firefox_43.0.2集成Tor 0.2.7.6，前置Lantern_2.0.11最新源码编译，1月29日更新。
+* 项目状态：匿名翻墙工具，Firefox_43.0.2集成Tor 0.2.8.1，前置Lantern_2.0.11最新源码编译，2月18日更新。
    - 点击Firefox-Tor.vbs启动。初次运行请等待1分钟左右建立链路。
 
 * 说明：前置lantern和前置ss，分别是两种匿名方案，一般只需要下载一种即可使用。前置ss请打开Shadowsocks文件夹，配置自己的ss账号；前置lantern不用任何配置，点击Firefox-Tor.vbs即用。
 
 下载
 -----
-* firefox43集成tor，前置lantern  [**本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)   &&&&& [**Dropbox下载**](https://www.dropbox.com/s/w2rcccu4uodj67y/Firefox43-Tor.7z?dl=0﻿)
+* firefox43集成tor，前置lantern  [**本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
 
 * firefox42集成tor，前置ss [**Dropbox下载**](https://www.dropbox.com/s/cqp1auw3h4am0dy/ss-tor.zip?dl=0)
 
