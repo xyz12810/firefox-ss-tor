@@ -1,8 +1,9 @@
 SocksListenAddress 127.0.0.1
 
 HTTPSProxy 127.0.0.1:8787
-UseBridges 0
+#Socks5Proxy 127.0.0.1:1080
 
+UseBridges 0
 ClientOnly 1
 DataDirectory ./
 GeoIPFile ./geoip
