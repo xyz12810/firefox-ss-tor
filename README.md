@@ -1,45 +1,60 @@
-Firefox+Shadowsocks+Tor
-===================
-* 项目状态：Firefox40.0.3集成Tor,前置Shadowsocks
-   - 点击Firefox-Tor.vbs启动。
-   
-准备工作
-========
-* 1: 打开Shadowsocks-2.5.8文件夹，配置自己的ss账号。确保本地监听端口为：127.0.0.1:1080
-* 2: 打开IE的internet选项，依次进入连接>局域网设置>代理服务器设置》高级》，然后在套接字：把127.0.0.1填进去，端口填1080，“对所有协议都使用相同的代理服务器设置”不要勾选，其他http,https.ftp不要设置。然后保存退出。
-* 3: 点击Firefox-Tor.vbs启动。
+Firefox+Lantern+Tor
+-------------------
+* 项目状态：匿名翻墙工具，Firefox_43.0.2集成Tor 0.2.8.1，前置Lantern_2.1.1最新源码编译，3月23日更新。
+   - 点击Firefox-Tor.vbs启动。初次运行请等待1分钟左右建立链路。
+
+* 说明：前置lantern和前置ss，分别是两种匿名方案，一般只需要下载一种即可使用。前置ss请打开Shadowsocks文件夹，配置自己的ss账号；前置lantern不用任何配置，点击Firefox-Tor.vbs即用。
 
 下载
-=====
-* [本地下载](https://github.com/yeahwu/firefox-ss-tor/archive/master.zip)
-* [Dropbox下载](https://www.dropbox.com/s/ps479fjj92uusn8/Firefox-SS-Tor.zip?dl=0)
-*   解压错误的，请用7-ZIP解压
+-----
+* firefox43集成tor，前置lantern  [**本地下载**](https://github.com/yeahwu/firefox-tor/archive/master.zip)
+
+* firefox42集成tor，前置ss [**Dropbox下载**](https://www.dropbox.com/s/cqp1auw3h4am0dy/ss-tor.zip?dl=0)
+
+* Tor检测，点击下面网址查看有没有成功匿名。https://check.torproject.org/?lang=zh_CN
+
+问题
+------
+* 链路链接不上问题：
+   - 请删除原有lantern的yaml文件，让其自动生成。
+   - 请不要在浏览器上安装或设置PAC，代理插件。
+
+* 文件解压错误问题：
+   - 请用[7-zip](https://sparanoid.com/lab/7z/)解压
 
 特色
-=====
-* 一键启动ss和tor，启动检测进程，保存各项单进程，不会重复进程。
-* tor隐身启动，大家可以去进程管理器查看进程。ss最小化启动。
-* tor五秒连上，速度取决于ss前置。
+----
+* 一键启动lantern和tor，启动检测进程，保持各项单进程，不会重复进程。
+* tor隐身启动，可以去进程管理器查看进程，lantern最小化启动。五秒连上，速度取决于前置。
+* 优化tor链路缺省，保证链路速度。
+* 优化浏览器各项安全设置，保证tor的匿名性。
+
+技术原理
+------
+* 由于GFW的原因，tor在国内基本不能直连，必须前置lantern或者ss等才能连上。前置ss的作用仅仅是起个链路建立里的通信用。当链路建立后，所有数据走链路。因为缺省每30秒重建链路，所以，ss使用每30秒一次。匿名和安全性不受影响。
 
 系统支持
-=======
+------
 *  windows xp/7/8/10
  
 联系
-=====
+------
 * [Goolge+](https://plus.google.com/communities/101215702940766881013)
 * [Twitter](https://twitter.com/yeahwu404)
 
 感谢
-====
-* kingtope...@gmail.com
+------
+非常感谢gary12的居多建议和技术支持！
+* Gary12
 * Shadowsocks
 * Tor
+* Lantern
 * PortableApps
 
 附图
-=====
+------
+tor状态页
+![Tor_status](https://raw.githubusercontent.com/yeahwu/Recycle-Bin/master/torr.JPG)
 firefox状态页
-![Tor_status](https://raw.githubusercontent.com/yeahwu/wu/master/tor.JPG)
-![firefox_status](https://github.com/yeahwu/wu/blob/master/firefox8.JPG?raw=true)
+![firefox_status](https://raw.githubusercontent.com/yeahwu/wu/master/firefox0.JPG)
 

@@ -1,6 +1,5 @@
 override chrome://browser/skin/Info.png chrome://browser/skin/Info-XP.png os=WINNT osversion<6
 override chrome://browser/skin/Privacy-16.png chrome://browser/skin/Privacy-16-XP.png os=WINNT osversion<6
-override chrome://browser/skin/Secure24.png chrome://browser/skin/Secure24-XP.png os=WINNT osversion<6
 override chrome://browser/skin/Toolbar.png chrome://browser/skin/Toolbar-XP.png os=WINNT osversion<6
 override chrome://browser/skin/Toolbar.png chrome://browser/skin/Toolbar-aero.png os=WINNT osversion=6
 override chrome://browser/skin/Toolbar.png chrome://browser/skin/Toolbar-aero.png os=WINNT osversion=6.1
@@ -13,6 +12,16 @@ override chrome://browser/skin/Toolbar@2x.png chrome://browser/skin/Toolbar-win8
 override chrome://browser/skin/aboutSessionRestore-window-icon.png chrome://browser/skin/preferences/application.png os!=WINNT
 override chrome://browser/skin/aboutSessionRestore-window-icon.png chrome://browser/skin/preferences/application.png os=WINNT osversion<6
 override chrome://browser/skin/actionicon-tab.png chrome://browser/skin/actionicon-tab-XPVista7.png os=WINNT osversion<=6.1
+override chrome://browser/skin/customizableui/thumburger.png chrome://browser/skin/customizableui/thumburger-XP.png os=WINNT osversion<6
+override chrome://browser/skin/customizableui/thumburger.png chrome://browser/skin/customizableui/thumburger-aero.png os=WINNT osversion=6
+override chrome://browser/skin/customizableui/thumburger.png chrome://browser/skin/customizableui/thumburger-aero.png os=WINNT osversion=6.1
+override chrome://browser/skin/customizableui/thumburger.png chrome://browser/skin/customizableui/thumburger-win8.png os=WINNT osversion=6.2
+override chrome://browser/skin/customizableui/thumburger.png chrome://browser/skin/customizableui/thumburger-win8.png os=WINNT osversion=6.3
+override chrome://browser/skin/customizableui/thumburger@2x.png chrome://browser/skin/customizableui/thumburger-XP@2x.png os=WINNT osversion<6
+override chrome://browser/skin/customizableui/thumburger@2x.png chrome://browser/skin/customizableui/thumburger-aero@2x.png os=WINNT osversion=6
+override chrome://browser/skin/customizableui/thumburger@2x.png chrome://browser/skin/customizableui/thumburger-aero@2x.png os=WINNT osversion=6.1
+override chrome://browser/skin/customizableui/thumburger@2x.png chrome://browser/skin/customizableui/thumburger-win8@2x.png os=WINNT osversion=6.2
+override chrome://browser/skin/customizableui/thumburger@2x.png chrome://browser/skin/customizableui/thumburger-win8@2x.png os=WINNT osversion=6.3
 override chrome://browser/skin/downloads/buttons.png chrome://browser/skin/downloads/buttons-XP.png os=WINNT osversion<6
 override chrome://browser/skin/feeds/audioFeedIcon.png chrome://browser/skin/feeds/feedIcon.png
 override chrome://browser/skin/feeds/audioFeedIcon16.png chrome://browser/skin/feeds/feedIcon16.png
@@ -20,7 +29,6 @@ override chrome://browser/skin/feeds/feedIcon.png chrome://browser/skin/feeds/fe
 override chrome://browser/skin/feeds/feedIcon16.png chrome://browser/skin/feeds/feedIcon16-XP.png os=WINNT osversion<6
 override chrome://browser/skin/feeds/videoFeedIcon.png chrome://browser/skin/feeds/feedIcon.png
 override chrome://browser/skin/feeds/videoFeedIcon16.png chrome://browser/skin/feeds/feedIcon16.png
-override chrome://browser/skin/identity.png chrome://browser/skin/identity-XP.png os=WINNT osversion<6
 override chrome://browser/skin/livemark-folder.png chrome://browser/skin/livemark-folder-XP.png os=WINNT osversion<6
 override chrome://browser/skin/loop/menuPanel.png chrome://browser/skin/loop/menuPanel-aero.png os=WINNT osversion=6
 override chrome://browser/skin/loop/menuPanel.png chrome://browser/skin/loop/menuPanel-aero.png os=WINNT osversion=6.1
@@ -49,7 +57,7 @@ override chrome://browser/skin/menuPanel@2x.png chrome://browser/skin/menuPanel-
 override chrome://browser/skin/page-livemarks.png chrome://browser/skin/feeds/feedIcon16.png
 override chrome://browser/skin/pageInfo.png chrome://browser/skin/pageInfo-XP.png os=WINNT osversion<6
 override chrome://browser/skin/places/allBookmarks.png chrome://browser/skin/places/allBookmarks-XP.png os=WINNT osversion<6
-override chrome://browser/skin/places/bookmark.png chrome://browser/skin/places/bookmark-XP.png os=WINNT osversion<6
+override chrome://browser/skin/places/autocomplete-star.png chrome://browser/skin/places/autocomplete-star-XPVista7.png os=WINNT osversion<=6.1
 override chrome://browser/skin/places/bookmarksMenu.png chrome://browser/skin/places/bookmarksMenu-XP.png os=WINNT osversion<6
 override chrome://browser/skin/places/bookmarksToolbar-menuPanel.png chrome://browser/skin/places/bookmarksToolbar-menuPanel-XP.png os=WINNT osversion<6
 override chrome://browser/skin/places/bookmarksToolbar.png chrome://browser/skin/places/bookmarksToolbar-XP.png os=WINNT osversion<6
@@ -71,7 +79,6 @@ override chrome://browser/skin/preferences/mail.png chrome://browser/skin/prefer
 override chrome://browser/skin/preferences/saveFile.png chrome://browser/skin/preferences/saveFile-XP.png os=WINNT osversion<6
 override chrome://browser/skin/reload-stop-go.png chrome://browser/skin/reload-stop-go-preWin10.png os=WINNT osversion<=6.3
 override chrome://browser/skin/reload-stop-go@2x.png chrome://browser/skin/reload-stop-go-preWin10@2x.png os=WINNT osversion<=6.3
-override chrome://browser/skin/searchbar-dropdown-arrow.png chrome://browser/skin/searchbar-dropdown-arrow-XP.png os=WINNT osversion<6
 override chrome://browser/skin/sync-horizontalbar.png chrome://browser/skin/sync-horizontalbar-XPVista7.png os=WINNT osversion<=6.1
 override chrome://browser/skin/sync-horizontalbar@2x.png chrome://browser/skin/sync-horizontalbar-XPVista7@2x.png os=WINNT osversion<=6.1
 override chrome://browser/skin/syncProgress-horizontalbar.png chrome://browser/skin/syncProgress-horizontalbar-XPVista7.png os=WINNT osversion<=6.1
@@ -90,7 +97,6 @@ override chrome://browser/skin/tabbrowser/tab-background-middle.png chrome://bro
 override chrome://browser/skin/tabbrowser/tab-background-middle@2x.png chrome://browser/skin/tabbrowser/tab-background-middle-preWin10@2x.png os=WINNT osversion<=6.3
 override chrome://browser/skin/tabbrowser/tab-background-start.png chrome://browser/skin/tabbrowser/tab-background-start-preWin10.png os=WINNT osversion<=6.3
 override chrome://browser/skin/tabbrowser/tab-background-start@2x.png chrome://browser/skin/tabbrowser/tab-background-start-preWin10@2x.png os=WINNT osversion<=6.3
-override chrome://browser/skin/tabbrowser/tab-separator.png chrome://browser/skin/tabbrowser/tab-separator-XP.png os=WINNT osversion<6
 override chrome://browser/skin/toolbarbutton-dropdown-arrow.png chrome://browser/skin/toolbarbutton-dropdown-arrow-XPVista7.png os=WINNT osversion<=6.1
 override chrome://browser/skin/urlbar-history-dropmarker.png chrome://browser/skin/urlbar-history-dropmarker-preWin10.png os=WINNT osversion<=6.3
 override chrome://browser/skin/urlbar-history-dropmarker@2x.png chrome://browser/skin/urlbar-history-dropmarker-preWin10@2x.png os=WINNT osversion<=6.3
